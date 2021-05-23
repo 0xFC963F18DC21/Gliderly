@@ -1,0 +1,3 @@
+gliderly
+*.o
+gliderly-clean.c
